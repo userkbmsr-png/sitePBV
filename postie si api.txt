@@ -1,0 +1,16 @@
+user brwb8w5a@gmail.com
+password qsheheegwserfdjm
+imap-ssl
+993
+imap.gmail.com
+fara corectie ora 
+0 hour
+authorized brwb8w5a@gmail.com
+
+filtru postie de pus in wp-config
+titlu la email [anunturi] [important] [sticky] titlu il publica imediat ca articol in prima pagina
+ categorie/tag/sticky
+
+
+API Drive
+AIzaSyBdlsJbyHQYGlh_9-Msh71pdmwIgRuK_OY
