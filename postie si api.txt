@@ -1,5 +1,5 @@
 user brwb8w5a@gmail.com
-password qsheheegwserfdjm
+password qshehee*gwserfdjm  -steluta
 imap-ssl
 993
 imap.gmail.com
@@ -13,4 +13,4 @@ titlu la email [anunturi] [important] [sticky] titlu il publica imediat ca artic
 
 
 API Drive
-AIzaSyBdlsJbyHQYGlh_9-Msh71pdmwIgRuK_OY
+AIzaSyBdlsJbyHQYGlh_0*-Msh71pdmwIgRuK_OY   vezi steluta
